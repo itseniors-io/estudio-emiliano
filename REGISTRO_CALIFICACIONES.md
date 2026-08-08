@@ -1,44 +1,37 @@
-# 📊 REGISTRO ACADÉMICO DE CALIFICACIONES
+# 📜 REGISTRO DE CALIFICACIONES Y PROMEDIOS
 
-**Estudiante:** Joven de 15 años (Dominio de Física, Matemáticas, Inglés y General)
-**Año Escolar:** 2026
+**Alumno:** Estudiante AntiGravity
+**Ciclo:** 2026 - Día a Día
 
 ---
 
-## 🏆 Resumen de Promedios Generales
+## 🏆 Resumen por Materia
 
-| Materia | Exámenes Realizados | Calificación Promedio | Estado |
-| :--- | :---: | :---: | :---: |
-| **Física y Astronomía** | 1 | **10.0 / 10** | 🌟 Excelente |
-| **Inglés** | 1 | **6.7 / 10** | 🟡 En Progreso |
-| **Matemáticas** | 0 | - | Pendiente |
-| **Otras Materias** | 0 | - | Pendiente |
+| Materia | Exámenes Realizados | Preguntas Correctas | Preguntas Incorrectas | Promedio Actual |
+| :--- | :---: | :---: | :---: | :---: |
+| 🌌 **Física y Astronomía** | 1 | 2 / 2 | 0 | **10.0 / 10** |
+| 📐 **Matemáticas** | 1 | 1 / 1 | 0 | **10.0 / 10** |
+| 🇬🇧 **Inglés** | 1 | 1 / 1 | 0 | **10.0 / 10** |
 
 ---
 
 ## 📝 Historial Detallado de Exámenes
 
-### 📍 Examen #2 — Inglés (Pronombres y Tiempos Verbales)
-- **Fecha:** 30 de Julio, 2026
-- **Duración:** < 5 minutos
-- **Resultado:** 2 / 3 correctas (**6.7**)
+### 1. Física & Astronomía (31 Julio 2026)
+- **Tema:** Relatividad, Dilatación del Tiempo y Agujeros Negros.
+- **Calificación:** **10 / 10** (2/2 Aciertos)
+- **Estado:** ✅ Completado
 
-#### Detalle de Preguntas:
-1. **P1 (Presente - Ella está feliz):** Elegiste `a) She was happy` (Pasado) 🔴 **INCORRECTO** (Lo correcto era `b) She is happy`).
-2. **P2 (Pasado - Yo estaba en casa):** Elegiste `b) I was at home yesterday` 🟢 **CORRECTO**
-3. **P3 (Futuro - Ellos serán campeones):** Elegiste `a) They will be champions tomorrow` 🟢 **CORRECTO**
+### 2. Matemáticas (31 Julio 2026)
+- **Tema:** Teorema de Pitágoras y Rampa Triangular ($6^2 + 8^2 = 10^2$).
+- **Calificación:** **10 / 10** (1/1 Acierto)
+- **Estado:** ✅ Completado
 
----
-
-### 📍 Examen #1 — Física y Astronomía (Relatividad y Agujeros Negros)
-- **Fecha:** 30 de Julio, 2026
-- **Duración:** < 5 minutos
-- **Resultado:** 3 / 3 correctas (**10.0**)
-
-#### Detalle de Preguntas:
-1. **P1 (Gravedad y Relatividad del Tiempo):** `b) Verías que su movimiento se vuelve cada vez más lento...` 🟢 **CORRECTO**
-2. **P2 (Espaguetización):** `a) Espaguetización` 🟢 **CORRECTO**
-3. **P3 (Viaje a velocidad cercana a la luz):** `a) Se conservó más joven...` 🟢 **CORRECTO**
+### 3. Inglés (31 Julio 2026)
+- **Tema:** Pasado Simple - Verbos Irregulares (*Go -> Went*, *Buy -> Bought*).
+- **Calificación:** **10 / 10** (1/1 Acierto)
+- **Estado:** ✅ Completado
 
 ---
-*Nota: Este archivo mantendrá el registro de tus calificaciones diarias para calcular tu promedio final al terminar el ciclo escolar.*
+
+## 🎯 PROMEDIO GENERAL ACUMULADO: 10.0 / 10

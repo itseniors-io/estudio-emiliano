@@ -8,7 +8,7 @@ Este documento lleva el control en tiempo real de tu progreso de estudio, qué t
 
 | Materia | Temario Creado | Tema Actual | Estado | Puntos a Reforzar |
 | :--- | :---: | :---: | :---: | :--- |
-| **🧮 Matemáticas** | 🟩 Listo | *Por iniciar* | 🟡 Pendiente | Ninguno por ahora |
+| **🧮 Matemáticas** | 🟩 Listo | **1.2. Operaciones Fundamentales y Jerarquía** | 🟡 En Progreso | Ninguno (Lección 1.1 Dominada 10/10) |
 | **⚡ Física** | 🟩 Listo | *Por iniciar* | 🟡 Pendiente | Ninguno por ahora |
 | **🇬🇧 Inglés** | 🟩 Listo | *Por iniciar* | 🟡 Pendiente | Ninguno por ahora |
 | **📖 Español** | 🟩 Listo | *Por iniciar* | 🟡 Pendiente | Ninguno por ahora |
@@ -21,9 +21,8 @@ Este documento lleva el control en tiempo real de tu progreso de estudio, qué t
 
 ## 🎯 Registro de Temas Completados por Subcarpetas
 
-*(Conforme avancemos, aquí se listarán las subcarpetas creadas con sus apuntes `.md` de respaldo)*
-
-- **MATEMATICAS**: *(Aún sin lecciones archivadas)*
+- **MATEMATICAS**: 
+  - 🟩 `1.1_numeros_reales` (Dominado - Calificación 10/10)
 - **FISICA**: *(Aún sin lecciones archivadas)*
 - **INGLES**: *(Aún sin lecciones archivadas)*
 - **ESPANOL**: *(Aún sin lecciones archivadas)*
